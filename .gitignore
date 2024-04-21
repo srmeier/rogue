@@ -1,0 +1,12 @@
+*.o
+*.log
+*.status
+*.6
+*.cat
+*.doc
+*.html
+*.me
+*.scr
+config.h
+rogue
+Makefile
